@@ -1,0 +1,22 @@
+{
+    "author": [
+        "tmerc",
+        "brandons209"
+    ],
+    "install_msg": "Thanks for installing!",
+    "name": "Welcome",
+    "short": "Announces membership events.",
+    "description": "Announces members joining, leaving, getting banned, and getting unbanned, in a customizable text channel and with customizable messages.",
+    "requirements": [
+        "python-dateutil"
+    ],
+    "tags": [
+        "welcome",
+        "greetings",
+        "leave",
+        "ban",
+        "utility"
+    ],
+    "min_bot_version": "3.4.0",
+    "end_user_data_statement": "This cog doesn't store any user data."
+}

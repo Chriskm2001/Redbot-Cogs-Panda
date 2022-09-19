@@ -1,0 +1,10 @@
+{
+    "author" : ["palmtree5"],
+    "install_msg" : "Thanks for installing Mcsvr, which enables checking if a server is up, as well as the server's player count.\n[p]help Mcsvr to see commands. Requires `mcstatus`.\nFor support: <https://discord.gg/GET4DVk>",
+    "name" : "Mcsvr",
+    "disabled": false,
+    "short" : "Cog for getting Minecraft server status",
+    "requirements" : ["mcstatus==4.1.0", "validators"],
+    "description" : "Gets the status of a Minecraft Server (specifically version and player count)",
+    "tags": ["minecraft", "utility", "gaming"]
+}

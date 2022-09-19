@@ -1,7 +1,7 @@
 {
-  "author": ["Malarne (Malarne#1418)"],
+  "author": ["Cuppy (Cuppy#9091)"],
   "min_bot_version": "3.4.0",
-  "description": "A leveler cog for Red V3\nInspired by Stevy's v2 leveler cog\nPlease consult the docs at ayrobot.netlify.com for setup informations.\nThanks for using my cog !\nNB:Channel whitelist is enabled by default, you can manage that under `[p]levelerset channel whitelist` command !",
+  "description": "A leveler cog for Cuppy\nInspired by Stevy's v2 leveler cog\nPlease consult the docs at ayrobot.netlify.com for setup informations.\nThanks for using my cog !\nNB:Channel whitelist is enabled by default, you can manage that under `[p]levelerset channel whitelist` command !",
   "hidden": false,
   "install_msg": "Thank you for installing this leveler !\nPlease consult the docs at https://discord-cogs.readthedocs.io/en/latest/leveler.html for setup informations.\nPlease note that this cog come with bundled data, mostly the font for profile image.",
   "required_cogs": {},
